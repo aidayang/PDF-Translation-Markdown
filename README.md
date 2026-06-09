@@ -54,6 +54,8 @@ mineru_output/ —— 存放 MinerU 导出的 Markdown（若开启）
 
 文件名.md：结构化的 Markdown 文本，保留标题、段落、公式等基本排版
 
+视频演示：https://www.youtube.com/watch?v=TNm-7J229ck
+
 ## 注意事项
 文件夹路径请使用绝对路径，并确保路径中无特殊字符及空格。
 
